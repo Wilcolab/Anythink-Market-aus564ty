@@ -1,1 +1,0 @@
-Write a JavaScript function called toSnakeCase that converts a string to snake_case. The function should handle camelCase, PascalCase, and space-separated inputs by inserting underscores and converting to lowercase.
